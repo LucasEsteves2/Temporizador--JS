@@ -1,5 +1,5 @@
 <div align="center">
-<i><h6>Desafio serratec concluido - Front End
+<i><h6>Desafio temporizador Serratec Concluido
 </div>
 <a name="back-to-top">
 
@@ -11,29 +11,22 @@
 
  <p>
     <h2 align="center">
-  Sistema Check-in (CHECK-INATOR)
+  Temporizador -HTML+CSS+JS 
   </h2>
   </p> 
   </br>
 
 <div align="center">
-  <img width="700px" src="https://github.com/luqui2/Sistema-Check-in/blob/main/src/imagens/Apresentacao.gif">
+  <img width="1000px" src="https://github.com/LucasEsteves2/-Desafio-Serratec---Temporizador/blob/main/temporizador.gif">
 </div>
 <br>
 
 ## <img height="45px" align="center" src="https://github.com/luqui2/Sistema-para-Viagens-/blob/main/src/imagens/foguete.gif">   PROJETO:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sistema de  Viagens**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Temporizador**  
 
 <details>
-  <summary>✔️ Funcionalidades:</summary>
-      <p align="justify">
-      - Cadastrar Passageiro<br>
-      - Agendar Viagem    <br>
-      - Desmarcar Viagem<br>
-      - Consultar Viagens<br>
-      - Controle de assentos<br>
-      - Controle de Passageiros   <br>
-      </p>
+  <summary>✔️ Serratec:</summary>
+     
   </details>
 
 
@@ -45,10 +38,8 @@
 ## <img height="45px" align="center" src="https://github.com/luqui2/Sistema-para-Viagens-/blob/main/src/imagens/set.gif">   Desenvolvimento:
 - Desenvolvedor: [**Lucas Esteves de Abreu Rodrigues**] - [(*Linkedin*)](https://www.linkedin.com/in/lucas-esteves-de-abreu-rodrigues-848b841ba/)
   <br>
-  - Sistema desenvolvido em Java utilizando swing
-  - Banco de Dados: PostgreSQL
-  - IDE: Eclipse - JRE 1.18.0
- - *Armazenamento dos dados feito com banco de dados PostgreSQL e Hospedado no site HEROKU*
+  - Linguagem utilizada : Javascript + html + css Puro
+ 
 
  
 <br> 
