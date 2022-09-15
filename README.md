@@ -1,6 +1,6 @@
 <div align="center">
 <i><h6>Desafio temporizador Serratec Concluido <br>
-<a href=https://lucasesteves2.github.io/Temporizador-JS/>https://lucasesteves2.github.io</>
+<a href=https://lucasesteves2.github.io/Temporizador-JS/>https://lucasesteves2.github.io/Temporizador-JS/</>
 </div>
 <a name="back-to-top">
 
