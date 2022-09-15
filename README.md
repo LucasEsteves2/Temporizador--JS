@@ -18,7 +18,7 @@
   </br>
 
 <div align="center">
-  <img width="1000px" src="https://github.com/LucasEsteves2/-Desafio-Serratec---Temporizador/blob/main/temporizador.gif">
+  <img width="1000px" src="https://github.com/LucasEsteves2/Temporizador-JS/blob/main/temporizador.gif">
 </div>
 <br>
 
